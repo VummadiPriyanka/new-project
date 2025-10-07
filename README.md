@@ -1,6 +1,6 @@
 # new-project
 intro to git
-br>
+<br>
 
 my first projcet
-
+git 
